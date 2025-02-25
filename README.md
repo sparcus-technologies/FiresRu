@@ -64,4 +64,4 @@ The FiresRu dataset serves as a valuable resource for studying the relationship 
 
 ## References
 
-For additional details, refer to Table 1 and Figure 1 in the accompanying research paper.
+Kriuk Boris, https://arxiv.org/pdf/2502.17023
